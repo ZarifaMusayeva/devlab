@@ -18,6 +18,7 @@ devlab/
 | Week | Topic | Status |
 |------|-------|--------|
 | [Week 1](./week-1/customer-segmentation-rfm) | Customer Segmentation with RFM & Clustering | ✅ |
+| [Week 2](./week-2/patient-readmission-risk) | Explainable Risk Prediction for Patient Readmission | ✅ |
 
 ## Tech Stack
 
@@ -25,6 +26,8 @@ devlab/
 - Pandas
 - NumPy
 - Scikit-learn
+- XGBoost
+- SHAP
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
