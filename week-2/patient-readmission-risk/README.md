@@ -34,7 +34,7 @@ This project predicts early hospital readmission risk (within 30 days) for diabe
 
 The strongest predictor is `number_inpatient` (how many times the patient was hospitalized before). Race has very low importance in the model; gender has a small but non-negligible effect.
 
-See [`note.md`](./note.md) for detailed methodology and reasoning, and [`DOCUMENTATION.md`](./DOCUMENTATION.md) for a full code walkthrough.
+See [`note.md`](./note.md) for detailed methodology and reasoning.
 
 ## Tech Stack
 
